@@ -3,3 +3,18 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+header {
+  background-image: url(./images/bg-header-mobile.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+@media only screen and (min-width: 768px) {
+
+  header {
+    background-image: url(./images/bg-header-desktop.png);
+  }
+  
+}

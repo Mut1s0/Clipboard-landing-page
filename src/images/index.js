@@ -1,3 +1,4 @@
+import logo from "./logo.svg";
 import blacklist from "./icon-blacklist.svg";
 import text from "./icon-text.svg";
 import preview from "./icon-preview.svg";
@@ -11,6 +12,7 @@ import twitter from "./icon-twitter.svg";
 import instagram from "./icon-instagram.svg";
 
 export {
+    logo,
     blacklist,
     text,
     preview,

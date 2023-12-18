@@ -4,7 +4,7 @@ function App() {
 
   return(
 
-    <div className="w-full overflow-hidden">
+    <div className="w-full overflow-hidden font-baiJamjuree">
 
       <div>
 
