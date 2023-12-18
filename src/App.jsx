@@ -1,3 +1,4 @@
+import { Hero, Business, Clipboard, Workflow, Clients, CTA, Footer } from "./components";
 
 function App() {
 
@@ -9,7 +10,7 @@ function App() {
 
         <div>
 
-          Hero
+          <Hero />
 
         </div>
 
@@ -19,17 +20,17 @@ function App() {
 
         <div>
 
-          Business
+          <Business />
 
-          CLipBoard
+          <Clipboard />
 
-          WorkFlow
+          <Workflow />
 
-          Clients
+          <Clients />
 
-          CTA
+          <CTA />
 
-          Footer
+          <Footer />
 
         </div>
 
