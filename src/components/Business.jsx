@@ -32,7 +32,7 @@ function Business() {
 
                 </div>
 
-                <div className="">
+                <div>
 
                     {features.map((feature, index) => (
 
