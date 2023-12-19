@@ -6,7 +6,7 @@ function CTA() {
 
     return(
 
-        <section>
+        <section className="pb-[100px] pt-[20px]">
 
             <div className="text-center mb-[40px]">
 
