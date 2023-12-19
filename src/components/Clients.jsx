@@ -4,7 +4,7 @@ function Clients() {
 
     return(
 
-        <section className="w-full flex flex-wrap justify-center items-center gap-[80px] py-[100px]">
+        <section className="w-full flex flex-wrap justify-center items-center gap-[80px] py-[100px] px-[20px] lg:px-[200px]">
 
             {clients.map((client) => (
 
