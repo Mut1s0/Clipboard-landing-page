@@ -1,4 +1,22 @@
-import { blacklist ,text ,preview, google, ibm, microsoft, hp, vectorgraphic, facebook, twitter, instagram } from "../images";
+import { blacklist, text, preview, google, ibm, microsoft, hp, vectorgraphic, facebook, twitter, instagram } from "../images";
+
+export const features = [
+    {
+        id: "feature-1",
+        title: "Quick Search",
+        content: "Easily search your snippets by content, category, web address, application, and more."
+    },
+    {
+        id: "feature-2",
+        title: "iCloud Sync",
+        content: "Instantly saves and syncs snippets across all your devices."
+    },
+    {
+        id: "feature-3",
+        title: "Complete History",
+        content: "Retrieve any snippets from the first moment you started using the app."
+    },
+]
 
 export const stats = [
     {

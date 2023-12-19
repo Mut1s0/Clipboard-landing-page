@@ -10,6 +10,8 @@ import vectorgraphic from "./logo-vector-graphics.png";
 import facebook from "./icon-facebook.svg";
 import twitter from "./icon-twitter.svg";
 import instagram from "./icon-instagram.svg";
+import computer from "./image-computer.png";
+import devices from "./image-devices.png";
 
 export {
     logo,
@@ -24,4 +26,6 @@ export {
     facebook,
     twitter,
     instagram,
+    computer,
+    devices
 };
